@@ -1,0 +1,11 @@
+[Plugin]
+Module=css_autocomplete
+Loader=python3
+Name=CSS autocompletion
+Description=Provides autocompletion for CSS
+Authors=Tobias Schönberg <tobias47n9e@gmail.com>
+Copyright=Copyright © 2017 Tobias Schönberg
+Builtin=true
+Hidden=true
+X-Completion-Provider-Languages=css
+
